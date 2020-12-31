@@ -30,4 +30,50 @@ li{
     font-size: 20px;
     margin: 25px 0;
 }
-#img{}
+/*** container ***/
+#main {
+    background-color: rgb(192,192,192);
+    padding: 15px;
+}
+#img-div{
+    background-color: white;
+    border-radius: 7px;
+    margin: 30px auto 40px auto;
+    width: 100%;
+}
+figure{
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+}
+#image{
+    max-width: 100%;
+    display: block;
+    margin :60px auto 30px auto;
+}
+#img-caption{
+    font-family:"Times New Roman", Times, serif";
+    max-resolution: bottom 25px;
+    font-size: 25px;
+}
+
+/*** timeline & link ***/ 
+#tribute-info {
+    margin-bottom: 20px;
+}
+.text-link {
+    font-family:"Times New Roman", Times, serif";
+    font-size : 25px;
+    margin : 0 auto 10px auto;
+    text-align : center;
+    width: 70%;
+}
+#tribute-link {
+    text-decoration : none;
+
+}
+/* Mobile devices */
+/* applies to all widths 500px and less */
+@media (max-width: 500px){
+    display: none;
+}
