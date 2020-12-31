@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color:rgb(192,192,192);
+    margin: 0px, 0px, 25px, 0px;
+    padding: 25px, 25px, 25px, 25px;
+}
+#title{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif";
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size: 25px;
+    margin:0 auto 10px auto;
+    font-family: "Times New Roman", Times, serif";
+}
+ul{
+    margin: auto;
+    max-width: 550px;  
+}
+li{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    margin: 25px 0;
+}
+#img{}
